@@ -32,7 +32,7 @@
 <div align=center >   您使用或者复制了本仓库且本人制作的任何脚本，则视为 <span style="font-size:25px;color:#FF0000">已接受</span> 此免责声明，请仔细阅读
 <div>
 
-***
+***~~
 
 #### 开发者不易,请赏杯茶水费
 <div align=center><img width="200" height="200" src="https://gitee.com/Sunert/ProxyConfig/raw/master/QuantumultX/Rules/Images/Complimentcode.jpeg"/></div>
